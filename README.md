@@ -9,3 +9,7 @@ _________                            .__             _________.__          __
         \/            \/     \/                \/          \/                       \/ 
 
 Dummy .net core application with simple slots
+
+TODO:
+> Add unit tests
+> Tidy up logic - cognative complexity too high in places
